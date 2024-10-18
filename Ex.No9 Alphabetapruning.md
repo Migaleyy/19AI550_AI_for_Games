@@ -1,7 +1,7 @@
 # Ex.No: 9   Implementation of Alpha Beta Pruning 
 #### DATE: 13/09/24                                                                          
 #### REGISTER NUMBER : 212222110025
-### NAME : LINGESWARAN K
+### NAME : Migal G Arunadann
 ### AIM: 
 Write a Alpha beta pruning algorithm to find the optimal value of MAX Player from the given graph.
 ### Steps:
